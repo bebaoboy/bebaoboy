@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!--
+I am a Software Engineering student who is eager to learn and adapt to new things on my journey to become a software developer with a creative mind and strong problem solving skills, especially on Flutter and Mobile Development.
+
 **bebaoboy/bebaoboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
